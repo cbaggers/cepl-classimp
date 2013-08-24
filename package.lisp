@@ -1,5 +1,6 @@
 ;;;; package.lisp
 
 (defpackage #:cepl-classimp
-  (:use #:cl))
+  (:use #:cl
+        #:cffi))
 
